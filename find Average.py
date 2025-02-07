@@ -7,6 +7,8 @@ for i in aa:
         count=count+1
 if count>0:
     avg=sum/count
+    #welcome to my new bharti vlog
 
 print("sum of postive number",sum)
 print("Average of postive number",avg)
+print("hello world")
